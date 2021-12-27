@@ -1,0 +1,2 @@
+In simply blogging project create one html file,css and javascript file.And also add some pictures in blogging website.
+Created post article file to add some data and shows in home page
